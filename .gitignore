@@ -1,6 +1,3 @@
-linux/build/
-buildroot/output/
-buildroot/dl/
+/linux/
+/buildroot/
 mj.itb
-linux/
-buildroot/
